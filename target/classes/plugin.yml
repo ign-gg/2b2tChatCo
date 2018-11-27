@@ -1,0 +1,9 @@
+name: 2b2t-ChatCo
+main: CC.ChatCo
+version: "0.9"
+api: ["1.0.0"]
+
+load: POSTWORLD
+author: coke
+description: 2b2t PE's ChatCo.
+website: https://github.com/SumWum
